@@ -1,2 +1,2 @@
-# powerlytics
+# Powerlytics
 Powerlytics Insurance Use Case Demo
